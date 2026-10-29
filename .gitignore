@@ -229,8 +229,7 @@ __marimo__/
 # Outputs
 outputs/
 
-# Ansys – large binary files, never commit
-*.cas
+# Ansys - large binary files, never commit*.cas
 *.cas.h5
 *.dat
 *.dat.h5
