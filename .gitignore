@@ -218,3 +218,32 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Environment
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs
+outputs/
+
+# Ansys – large binary files, never commit
+*.cas
+*.cas.h5
+*.dat
+*.dat.h5
+*.msh
+*.msh.h5
+*.wbpj
+*_files/
+*.dsco
+*.scdocx
+*.trn
+*.out
+
+# SolidWorks
+*.SLDPRT
+*.SLDASM
+~$*
